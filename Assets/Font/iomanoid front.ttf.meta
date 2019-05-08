@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 74b662d2eb548754d8c1ce9ed8df3f45
+timeCreated: 1509508376
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Iomanoid
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 5343a16e541f04f4ebb82c56fd181774, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
